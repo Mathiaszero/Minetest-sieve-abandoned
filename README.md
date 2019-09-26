@@ -1,7 +1,7 @@
 # sieve
 Lightweight gravel sieve for Minetest, extracts default ores.
 
-License is LGPLv2.1+ for code, textures and sounds under CC BY-SA 3.0 Unported.  Sounds gravel are attributed to Carline Ford, and the light sound is attributed to Mike Koenig.
+License is LGPLv2.1+ for code, textures and sounds under CC BY-SA 3.0 Unported.  Sounds "gravel" and "gravel_short" are attributed to Caroline Ford, and the "light" sound is attributed to Mike Koenig.
 
 Depends: default.
 
