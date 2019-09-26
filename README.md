@@ -5,7 +5,7 @@ License is LGPLv2.1+ for code, textures and sounds under CC BY-SA 3.0 Unported. 
 
 Depends: default.
 
-To install, extract the zip folder to the directory /mods/ where there should be a "mods_here" text file by default.
+To install, extract the zip folder to the directory /mods/ where there should be a "mods_here" text file by default, and make sure the name of the folder is (excluding parentheses), "sieve". Also refer to other internet resources and videos for further assistance.
 
 Version 5
 
